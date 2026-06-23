@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Vineetha%20Podila&desc=AI%20%2F%20GenAI%20Engineer&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=v%20Podila2&desc=AI%20%2F%20GenAI%20Engineer&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
